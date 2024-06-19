@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Arvento Mobil Sytems<br>🌱 I’m currently learning React development
+🔭 I’m currently working on Arvento Mobil Sytems
 
 
 ## 🌐 Socials:
